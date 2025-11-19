@@ -55,11 +55,11 @@
     {
       "name": "crystall1nedev's server",
       "address": "https://anisette.crystall1ne.dev"
-    }
-  ],
-  "cache": "https://servers.sidestore.io/servers.json.hash"
-},
-{
+    },
+    {
     "name": "Stelar"
     "address": "http://192.168.1.26:6969"
+    },
+  ],
+  "cache": "https://servers.sidestore.io/servers.json.hash"
 }
